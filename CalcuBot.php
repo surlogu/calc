@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 </head>
 <?php
-define('BOT_TOKEN', 'token');
+define('BOT_TOKEN', '1182445097:AAHJ6humKze-RejcIod_q9D6uNIh9ToWvdc');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 /* Combinations */
